@@ -91,6 +91,7 @@
         android:layout_marginTop="16dp"
         android:text="@string/log"
         android:textSize="36sp"
+        android:background="#ADD8E6"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/repLabelTextView"
